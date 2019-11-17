@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { typography } from "@kotai/core"
 
 const HANDLE_BORDER_COLOR = type => {
     switch (type) {
@@ -27,6 +28,7 @@ const HANDLE_BACKGROUND_COLOR = type => {
 };
 
 export const Alert = styled.div`
+font-family: ${typography.FONT_FAMILY}
 display: flex;
 align-items: flex-start;
 padding: 8px;

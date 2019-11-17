@@ -8,6 +8,7 @@
     "dev": "start-storybook -p 6006"
   },
   "dependencies": {
+    "@kotai/core": "0.0.2",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
     "styled-components": "^4.4.1"
