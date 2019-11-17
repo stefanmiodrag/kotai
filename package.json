@@ -1,9 +1,10 @@
 {
-  "name": "root",
+  "name": "kotai",
+  "author": "Stefan Miodrag <stefan.miodrag@gmail.com>",
   "devDependencies": {
     "lerna": "^3.18.4"
   },
-  "scripts": { 
+  "scripts": {
     "publish": "lerna publish  --yes --cd-version patch"
   }
 }
