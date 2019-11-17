@@ -1,7 +1,7 @@
 {
   "name": "@kotai/core",
   "author": "Stefan Miodrag <stefan.miodrag@gmail.com>",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "ISC",
   "devDependencies": {
