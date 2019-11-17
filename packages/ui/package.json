@@ -1,14 +1,14 @@
 {
   "name": "@kotai/ui",
   "author": "Stefan Miodrag <stefan.miodrag@gmail.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "src/index.js",
   "license": "ISC",
   "scripts": {
     "dev": "start-storybook -p 6006"
   },
   "dependencies": {
-    "@kotai/core": "0.0.2",
+    "@kotai/core": "^0.0.3",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
     "styled-components": "^4.4.1"
