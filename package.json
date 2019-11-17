@@ -1,0 +1,9 @@
+{
+  "name": "root",
+  "devDependencies": {
+    "lerna": "^3.18.4"
+  },
+  "scripts": { 
+    "publish": "lerna publish  --yes --cd-version patch"
+  }
+}
