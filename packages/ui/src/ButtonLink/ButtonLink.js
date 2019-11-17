@@ -1,11 +1,12 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
 
+import * as style from "./ButtonLink.style";
+
 const ButtonLink = props => (
-    <Link to={props.path}>
+    <style.ButtonLink to={props.path}>
         {props.label}
-    </Link>
+    </style.ButtonLink>
 );
 
 ButtonLink.defaultProps = {

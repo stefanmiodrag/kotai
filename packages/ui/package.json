@@ -1,5 +1,5 @@
 {
-  "name": "@kotai/core",
+  "name": "@kotai/ui",
   "author": "Stefan Miodrag <stefan.miodrag@gmail.com>",
   "version": "0.0.1",
   "main": "src/index.js",
